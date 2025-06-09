@@ -14,3 +14,6 @@ Finally, a 4x3 keypad matrix acts as the user interface. It allows the selection
 
 You can find more info about HW componentes in the next link:
 https://www.hackster.io/rubinsan/dc-motors-hands-on-study-02742c
+
+Video with an example of execution:
+https://www.youtube.com/watch?v=YV4XwpWuwdg
