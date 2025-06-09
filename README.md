@@ -16,4 +16,5 @@ You can find more info about HW componentes in the next link:
 https://www.hackster.io/rubinsan/dc-motors-hands-on-study-02742c
 
 Video with an example of execution:
-https://www.youtube.com/watch?v=YV4XwpWuwdg
+<a href="https://www.youtube.com/watch?v=YV4XwpWuwdg"><img src="https://raw.githubusercontent.com/rubinsan/dc-motor-testbed/cover_2.png" style="height: 60%; width:60%;"/></a>
+
