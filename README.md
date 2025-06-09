@@ -10,6 +10,7 @@ An ad hoc optical encoder was developed to make the learning process more compre
 
 For the same reason, an OLED screen was added to the system, connected to the microcontroller through one of its I2C ports.
 
-Finally, a 4x4 keyboard matrix acts as the user interface. It allows the selection of different control signals: 1 to 5V supply, triangular, sawtooth, and sine waveforms, as well as a stop command.
+Finally, a 4x3 keypad matrix acts as the user interface. It allows the selection of different control signals: 1 to 5V supply, triangular, sawtooth, and sine waveforms, as well as a stop command.
 
 You can find more info about HW componentes in the next link:
+https://www.hackster.io/rubinsan/dc-motors-hands-on-study-02742c
