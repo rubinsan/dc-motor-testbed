@@ -6,7 +6,7 @@ The test bed is based on an STM32 Nucleo-L152RE development board, where the C c
 A small motor driver generates the power signal, which is supplied through a USB connection.
 The USB connects to a laptop where a MATLAB script is executed to process and visualize the data as shown below:
 
-<img src="./images/sine_plot.png" style="height: 60%; width: 60%;"/>
+<img src="./images/sine_plot.png" style="height: 50%; width: 50%;"/>
 
 An ad hoc optical encoder was developed to make the learning process more comprehensive.
 
@@ -20,5 +20,5 @@ https://www.hackster.io/rubinsan/dc-motors-hands-on-study-02742c
 Video with an example of execution:
 
 <a href="https://www.youtube.com/watch?v=YV4XwpWuwdg">
-<img src="./images/cover_2.png" style="height: 30%; width: 30%;"/></>
+<img src="./images/cover_2.png" style="height: 40%; width: 40%;"/></>
 
