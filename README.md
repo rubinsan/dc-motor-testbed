@@ -17,5 +17,6 @@ https://www.hackster.io/rubinsan/dc-motors-hands-on-study-02742c
 
 Video with an example of execution:
 
-![https://www.youtube.com/watch?v=YV4XwpWuwdg](./cover_2.png)
+<a href="https://www.youtube.com/watch?v=YV4XwpWuwdg">
+<img src="./cover_2.png" style="height: 30%; width: 30%;"/></>
 
