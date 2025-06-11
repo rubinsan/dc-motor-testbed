@@ -20,5 +20,13 @@ https://www.hackster.io/rubinsan/dc-motors-hands-on-study-02742c
 Video with an example of execution:
 
 <a href="https://www.youtube.com/watch?v=YV4XwpWuwdg">
-<img src="./images/cover_2.png" style="height: 50%; width: 50%;"/></>
+<img src="./images/cover_2.png" style="height: 50%; width: 50%;"/>
 
+## Authors
+
+* **Ricardo Alvarado Piqueras**
+* **Ruben Sanchez** - [rubinsan](https://github.com/rubinsan)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
